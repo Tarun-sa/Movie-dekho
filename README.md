@@ -7,5 +7,7 @@ Screenshots are shown below
 
 ![2game](https://user-images.githubusercontent.com/60089398/157387760-f38b3d2f-4e1f-45f6-bf65-58b09cc5ce22.JPG)
 ![3game](https://user-images.githubusercontent.com/60089398/157387782-1c525566-7e85-4ed9-ad44-b1e1002c02f3.JPG)
+![3a](https://user-images.githubusercontent.com/60089398/157388147-24520ae3-b0ea-4cf8-bf70-191d433ebce3.JPG)
+
 
 
