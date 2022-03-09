@@ -1,0 +1,17 @@
+@import "./common/color.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background-color: $primary-color;
+  font-family: "Nunito", sans-serif;
+}
+.container {
+  margin: 20px 40px;
+}

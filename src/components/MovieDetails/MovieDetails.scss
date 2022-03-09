@@ -1,0 +1,55 @@
+@import "../../common/color.scss";
+
+.movie-section {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 40px 0;
+  font-weight: 400;
+  color: #ffffff;
+}
+.movie-title {
+  font-size: 40px;
+  color: $secondary-font;
+}
+.movie-rating {
+  margin-top: 20px;
+  margin-left: 3px;
+  color: #ffffff;
+  display: flex;
+}
+.movie-rating span {
+  margin-right: 20px;
+}
+.movie-plot {
+  margin-top: 20px;
+  line-height: 1.6rem;
+  margin-bottom: 10px;
+  padding-right: 12px;
+}
+.movie-info > div span:first-child {
+  padding: 10px 2px;
+  width: 100px;
+  display: inline-block;
+  font-weight: 600;
+}
+.section-right {
+  margin-left: 30px;
+  padding-left: 5px;
+}
+.fa-star {
+  color: #ff9e00;
+  margin-right: 5px;
+}
+.fa-thumbs-up {
+  color: #fafafa;
+  margin-right: 5px;
+}
+.fa-film {
+  color: rgb(191, 213, 214);
+  margin-right: 5px;
+}
+.fa-calendar {
+  color: peachpuff;
+  margin-right: 5px;
+}

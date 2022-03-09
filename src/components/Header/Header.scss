@@ -1,0 +1,49 @@
+@import "../../common/color.scss";
+
+.header {
+  background-color: $secondary-color;
+  height: 72px;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  color: $primary-font;
+  font-size: 30px;
+  font-weight: 600;
+}
+.user-img,
+.user-img > img {
+  width: 45px;
+}
+.search-bar {
+  margin-right: 70px;
+  position: relative;
+}
+input {
+  border: none;
+  padding: 10px 10px;
+  margin: 5px;
+  width: 300px;
+  background-color: #ffffff;
+  outline: none;
+  border-radius: 20px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  word-spacing: 1px;
+  letter-spacing: 0.5px;
+}
+
+button {
+  position: absolute;
+  right: 20px;
+  bottom: 14px;
+  border: none;
+  cursor: pointer;
+}
+.fa-search {
+  font-size: 15px;
+  background: none;
+  outline: none;
+}

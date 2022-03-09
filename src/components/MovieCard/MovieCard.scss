@@ -1,0 +1,30 @@
+@import "../../common/color.scss";
+
+.card-item {
+  margin-top: 15px;
+  cursor: pointer;
+  transition: all 0.4s;
+  margin: 9px;
+  padding: 9px;
+}
+.card-item:hover {
+  transform: scale(1.1);
+}
+.card-top {
+  height: 415px;
+}
+.card-top img {
+  width: 100%;
+  height: 100%;
+}
+.card-bottom {
+  margin-top: 5px;
+  margin-left: 3px;
+}
+.card-info p {
+  color: $secondary-font;
+}
+.card-info h3 {
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+}
